@@ -1,6 +1,6 @@
-# AI-Powered Fitness Tracker
+# Fitness Tracker
 
-A full-stack AI-based fitness application built using React.js, Strapi, and Tailwind CSS.
+A full-stack fitness application built using React.js, Strapi, and Tailwind CSS.
 This application enables users to track workouts, monitor calorie intake, and manage fitness goals efficiently.
 
 The system integrates Google Gemini AI to analyze food images and automatically estimate calorie intake, reducing manual effort and improving accuracy.
@@ -93,14 +93,8 @@ npm run develop
 
 ## Live Demo
 
-Frontend: Add your deployed link here
-Backend API: Add your API link here
-
----
-
-## Screenshots
-
-Add application screenshots here (dashboard, tracking, AI feature, etc.)
+Frontend: https://fitness-tracker-eight-hazel.vercel.app
+Backend API:https://stunning-hope-e3e941032e.strapiapp.com
 
 ---
 
